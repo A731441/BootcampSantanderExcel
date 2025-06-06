@@ -1,5 +1,4 @@
 # BootcampSantanderExcelInteligenciaArtificial
-Desafio de Projeto - Criando uma Ferramenta de Controle de Investimentos com Excel
 Foi desenvolvida uma ferramenta prática para simulação de investimentos em fundos imobiliários.
 
 A primeira tabela sugere um valor de investimento com base em 30% do salário do usuário e permite simular diferentes cenários, considerando o valor a ser investido, o prazo do investimento e diversas taxas de rendimento.
